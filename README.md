@@ -49,7 +49,7 @@ This helps accelerate environment setup and improves scalability across multiple
 
 🔹 [PERL Verification Automation Script- RTL to UVM Skeleton](https://github.com/yeswanthigandham/rtl-to-uvm-skeleton) 
 
-🔹 (Upcoming) Asynchronous FIFO Verification
+🔹 [Asynchronous FIFO Verification](https://github.com/yeswanthigandham/Asynchronous_FIFO_UVM_TB/) 
 
 ---
 
