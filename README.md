@@ -43,6 +43,8 @@ This helps accelerate environment setup and improves scalability across multiple
 
 ## 📂 Featured Projects
 
+🔹 [Fixed-Priority Arbiter UVM Verification](https://github.com/yeswanthigandham/fixed-priority-arbiter-uvm) 
+
 🔹 [UVM Memory Model Verification](https://github.com/yeswanthigandham/UVM_memory_model)
 
 🔹 [Synchronous FIFO UVM Verification](https://github.com/yeswanthigandham/Sychronous-FIFO-UVM)
